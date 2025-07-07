@@ -1,2 +1,3 @@
 # EKS-Terraform
-Capstone project IAC
+IAC for Enterprise Grade Devops Project      
+#EKS-CLUSTER
